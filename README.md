@@ -25,10 +25,20 @@ The dataset includes the following variables:
 - **PRC_FULL_PAYMENT**: Percent of full payment paid by the user
 - **TENURE**: Tenure of credit card service for the user
 
+
+## Algorithms Used
+
+In this project, the following algorithms for unsupervised learning and dimensionality reduction were employed:
+
+- **Hierarchical Clustering**
+- **K-means**
+- **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
+- **Gaussian Mixtures**
+- **Principal Component Analysis (PCA)**
+
+
 ## Clustering Analysis
 ![customer segmentation](https://github.com/emadmagdy72/Customer-Segmentation-for-Marketing/assets/67216285/e0a964ec-1b7b-40d2-80f1-53a62965be6f)
-
-The dataset has been analyzed using clustering techniques to segment customers based on their behavior. The following clusters have been identified:
 
 ### Cluster 0
 
